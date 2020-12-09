@@ -1,0 +1,29 @@
+
+article {
+   background: gainsboro;
+   margin: 0px 35%;
+   border-radius: 10px;
+
+}
+
+.post{
+     margin-top: 20px;
+        text-align: center;
+    }
+
+ .buttons{
+    display: flex;
+    /* justify-items: stretch; */
+    justify-content: space-around;
+ }
+
+ .buttons button{
+     
+
+    border-radius: 50px;
+    width: 100px;
+    height: 40px;
+    background: green;
+
+ }
+
